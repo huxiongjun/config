@@ -4,4 +4,4 @@ spring:
 server:
   port: 18085 #该微服务的端口
 env:
-  dev12345678
+  dev012345678
