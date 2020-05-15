@@ -3,3 +3,5 @@ spring:
     name: pigServiceTest
 server:
   port: 18085 #该微服务的端口
+env:
+  dev
